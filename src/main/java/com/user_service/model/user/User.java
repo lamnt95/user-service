@@ -1,6 +1,8 @@
 package com.user_service.model.user;
 
+import lombok.Builder;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 import com.user_service.model.audit.DateAudit;
 import com.user_service.model.role.Role;
