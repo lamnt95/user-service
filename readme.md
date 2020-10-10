@@ -21,7 +21,7 @@ Project User Service là 1 Service quản lý người dùng trong một hệ th
 
 # Bắt đầu
 
-Cần cài đặt Java8 và Docker
+Cần cài đặt Java 8 và Docker
 
 Cài đặt các package
 
@@ -48,11 +48,6 @@ Cài đặt các package
 Để vào trang Swagger
 
     http://localhost:9600/swagger-ui.html
-
-Để vào trang Swagger
-
-    mvn compile && java -jar ./target/user_service-0.0.1-SNAPSHOT.jar
-
 
 # CƠ SỞ DỮ LIỆU
 
